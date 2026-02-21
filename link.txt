@@ -1,0 +1,3 @@
+Book: https://otexts.com/fpppy/
+
+Data: https://otexts.com/fpppy/data/
