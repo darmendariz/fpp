@@ -11,4 +11,5 @@ dependencies = [
     "nixtla>=0.7.2",
     "pandas>=3.0.1",
     "seaborn>=0.13.2",
+    "tsfeatures>=0.4.5",
 ]
